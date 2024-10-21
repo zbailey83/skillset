@@ -1,8 +1,6 @@
-- ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc).
-- 🌱 Built several significant projects based on Bitcoin, Solana network 
-
+- ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc)
+- 💼 Now building Marketplace && Multisig vault && Cross-chain Liquidity && Non-Custodinal Staking
 - 🏆 This is my past project: <a href="https://github.com/ptc-bink/project-overview-btc-etc">here</a>
-- 💼 Now building Multisig wallet, Cross-chain Liquidity and Non-Custodinal Staking.
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ptc-bink.ptc-bink" />
 <img align="right" src="https://img.shields.io/github/followers/ptc-bink?label=Follow&style=social" />
