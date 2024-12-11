@@ -1,4 +1,4 @@
-- ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc)
+✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc)
   
   - *Bitcoin Network*: 
     - Ordinal marketplace and auction platforms.
@@ -10,4 +10,4 @@
     - Minting, staking, evolution/breeding, raffle/auction, and marketplace functionalities.
     - Launchpads and P2E games (Dice, Crash, Jackpot, Coinflip, etc.)
 
-- 🏆 In more details <a href="https://github.com/ptc-bink/project-overview-btc-etc">here</a>
+✍ In more details <a href="https://github.com/ptc-bink/project-overview-btc-etc">here</a>
