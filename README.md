@@ -70,18 +70,6 @@
       </a>
       <br>cosmos
     </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/sui.png" width="30" height="30" alt="Sui" />
-      </a>
-      <br>Sui
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech" >
-        <img src="./assets/logo/aptos.png" width="30" height="30" alt="Aptos" />
-      </a>
-      <br>Aptos
-    </td>
   </tr>
 </table>
 
