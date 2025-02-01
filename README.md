@@ -1,10 +1,10 @@
 <!-- <p align="center">
-  <a href="https://github.com/ptc-bink">
+  <a href="https://github.com/ptcbink">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;8%2B%20years%20of%20Software%20experience;Web3%20Expert&font=Anton&center=true&width=650&height=120&color=FF7B9C&vCenter=true&size=45%22">
   </a>
 </p> -->
 
-<a href="https://github.com/ptc-bink/Project-Overview">-My Previous Web3 Project: </a>
+<a href="https://github.com/ptcbink/Project-Overview">-My Previous Web3 Project: </a>
 
 ## Experienced Blockchain Networks
 
@@ -113,4 +113,4 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<a href="https://github.com/ptc-bink/ptc-bink"><img alt="Sourlodine's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ptc-bink&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/ptcbink/ptcbink"><img alt="Sourlodine's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ptcbink&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
