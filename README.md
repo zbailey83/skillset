@@ -4,7 +4,7 @@
   </a>
 </p> -->
 
-<a href="https://github.com/ptcbink/Project-Overview">-My Previous Web3 Project: </a>
+Previous works [Here](https://github.com/ptcbink/Project-Overview)
 
 ## Experienced Blockchain Networks
 
