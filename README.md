@@ -4,7 +4,8 @@
   </a>
 </p> -->
 
-Previous works [Here](https://github.com/ptcbink/Project-Overview)
+<!-- Previous works [Here](https://github.com/ptcbink/Project-Overview) -->
+Previous works [Here](https://github.com/ptcbink/project-overview-sol-etc)
 
 ## Experienced Blockchain Networks
 
