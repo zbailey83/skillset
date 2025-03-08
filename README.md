@@ -50,28 +50,9 @@
       </a>
       <br>Cardano
     </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/cronos.png" width="30" height="30" alt="Cronos" />
-      </a>
-      <br>Cronos
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/near.png" width="30" height="30" alt="Near" />
-      </a>
-      <br>Near
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/cosmos.png" width="30" height="30" alt="Cosmos" />
-      </a>
-      <br>cosmos
-    </td>
-  </tr>
-</table>
+    
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Tech Stack</h2>
 
 **> Programming languages**
 
